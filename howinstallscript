@@ -1,0 +1,15 @@
+That its easy only need the terminal and simple commands
+
+1 Can use Sublimetext 3, brackets , or terminal ,o geany your prefer editor 
+2 Create file with name "spotify.sh" 
+3 Save in home 
+  Example : home/jose 
+  Go to the file or directory like that : cd /home/jose/scripts/spotift.sh "Its an example"
+  then when why are in the directory o folder .
+  Commands Terminal:
+    Chmod 0755 spotify.sh "That permite to excute your script lat get permission"
+    THe write .
+    ./spotify.sh 
+    
+    its te end 
+    :)
